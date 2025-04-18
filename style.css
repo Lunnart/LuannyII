@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+p {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Cards {
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+}
+.Card-1 {
+    border-radius: 1px;
+}
