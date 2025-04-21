@@ -13,6 +13,7 @@ p {
     justify-content: space-around;
     margin: auto;
 }
-.Card-1 {
+.Card-1, p {
     border-radius: 1px;
+    text-align: center
 }
